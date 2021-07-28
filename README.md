@@ -11,7 +11,7 @@ CSharp,(This can be freely downloaded from https://visualstudio.microsoft.com/do
 2. Open CLI 
 
 3. Use the following command to navigate the folder (please check where your source file is located)
-C:\Users\muhyah\OneDrive - National University of Ireland, Galway\PhD Publications\datagenerator\DataGenerator\bin\Debug
+> cd C:\Users\muhyah\OneDrive - National University of Ireland, Galway\PhD Publications\datagenerator\DataGenerator\bin\Debug
 
 ![Alt text](https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/smO.owl.svg?sanitize=true)
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/smO.owl.svg?sanitize=true">
