@@ -1,5 +1,5 @@
 # ManufacturingProductionLineDataSetGeneration-Football
-In order to enable academic researchers to check and validate their tools and techniques, a manufacturing dataset generator is develop to generate a realistic dataset of the production line. 
+In order to enable academic researchers to check and validate their tools and techniques, a manufacturing dataset generator is developed to generate a realistic dataset of the production line. 
 
 # Prerequisite
 CSharp,(This can be freely downloaded from https://visualstudio.microsoft.com/downloads/).
@@ -15,10 +15,10 @@ CSharp,(This can be freely downloaded from https://visualstudio.microsoft.com/do
 
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/cmd_1.jpg?sanitize=true">
 
-4. use the following command to generate the data (In the command 4 and 5, we are generating 1000 records(generated 4000 footballs))
+4. use the following command to generate the data.
 > DataGenerator
 
-5. Enter the number of processes
+5. It will ask "Enter the number of processes", enter any desired number of processes your want. (In a single master process 4 footballs are created)
 > 1000
 
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/cmd_2.jpg?sanitize=true">
