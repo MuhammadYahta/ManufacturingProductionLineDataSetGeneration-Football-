@@ -13,7 +13,6 @@ CSharp,(This can be freely downloaded from https://visualstudio.microsoft.com/do
 3. Use the following command to navigate the folder (please check where your source file is located)
 > cd ..\datagenerator\DataGenerator\bin\Debug
 
-![Alt text](https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/cmd_1.jpg?sanitize=true)
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/cmd_1.jpg?sanitize=true">
 
 
