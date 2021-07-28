@@ -23,7 +23,7 @@ CSharp,(This can be freely downloaded from https://visualstudio.microsoft.com/do
 
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/cmd_2.jpg?sanitize=true">
 
-6. press any key and copy the highlighted (please go to Generator.cs file place in the \bin\Debug and set your location for storing the created dataset file) 
+6. press any key and copy the highlighted (go to Generator.cs file place in the \bin\Debug and set your location for storing the created dataset file) 
 
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/cmd_3.jpg?sanitize=true">
 
