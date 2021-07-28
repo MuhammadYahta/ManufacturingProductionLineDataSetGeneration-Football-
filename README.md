@@ -15,7 +15,13 @@ CSharp,(This can be freely downloaded from https://visualstudio.microsoft.com/do
 
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/cmd_1.jpg?sanitize=true">
 
+4. use the following command to generate the data (In the command 4 and 5, we are generating 1000 records(generated 4000 footballs))
+> DataGenerator
 
+5. Enter the number of processes
+> 1000
+
+<img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/cmd_2.jpg?sanitize=true">
 
 
 
