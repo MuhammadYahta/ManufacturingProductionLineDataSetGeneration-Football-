@@ -20,14 +20,8 @@ Python
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/2. run main program.JPG?sanitize=true">
 
 
-5. It will ask "Enter the number of processes", enter any desired number of processes your want. (In a single master process 4 footballs are created)
-> 1000
 
-<img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/cmd_2.jpg?sanitize=true">
 
-6. press any key and copy the highlighted (go to Generator.cs file place in the \bin\Debug and set your location for storing the created dataset file) 
-
-<img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/cmd_3.jpg?sanitize=true">
 
 
 
