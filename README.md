@@ -13,7 +13,7 @@ Python
 3. Use the following command to navigate to the lcoation where you store source code.
 > cd C:\Users\muhyah\dgPython
 
-<img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/cmd_1.jpg?sanitize=true">
+<img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/1 navigate using this command.JPG?sanitize=true">
 
 4. use the following command to generate the data.
 > DataGenerator
