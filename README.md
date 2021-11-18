@@ -15,8 +15,10 @@ Python
 
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/1 navigate using this command.JPG?sanitize=true">
 
-4. use the following command to generate the data.
-> DataGenerator
+4. use the following command to run the generator for creating data. when hit enter it will ask three options, i.create the data by number of processes , ii. create data by the number of days, iii. create data between dates
+> python run.py
+<img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/2. run main program.JPG?sanitize=true">
+
 
 5. It will ask "Enter the number of processes", enter any desired number of processes your want. (In a single master process 4 footballs are created)
 > 1000
