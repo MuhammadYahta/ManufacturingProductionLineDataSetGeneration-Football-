@@ -2,7 +2,7 @@
 In order to enable academic researchers to check and validate their tools and techniques, a manufacturing dataset generator is developed to generate a realistic dataset of the production line. 
 
 # Prerequisite
-CSharp,(This can be freely downloaded from https://visualstudio.microsoft.com/downloads/).
+Python
 
 # How to Run DataGenerator to generate data
 
@@ -11,7 +11,7 @@ CSharp,(This can be freely downloaded from https://visualstudio.microsoft.com/do
 2. Open CLI 
 
 3. Use the following command to navigate to the lcoation where you store source code.
-> cd ..\datagenerator\DataGenerator\bin\Debug
+> cd C:\Users\muhyah\dgPython
 
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/cmd_1.jpg?sanitize=true">
 
