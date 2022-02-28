@@ -11,7 +11,7 @@ Python
 2. Open CLI 
 
 3. Use the following command to navigate to the lcoation where you store source code.
-> cd C:\dgPython
+> cd C:\Users\muhyah\dgPython
 
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/1 navigate using this command.JPG?sanitize=true">
 
