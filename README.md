@@ -11,7 +11,7 @@ Python
 2. Open CLI 
 
 3. Use the following command to navigate to the lcoation where you store source code.
-> cd C:\Users\muhyah\dgPython
+> cd C:\dgPython
 
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/1 navigate using this command.JPG?sanitize=true">
 
@@ -19,7 +19,7 @@ Python
 > python run.py
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/2. run main program.JPG?sanitize=true">
 
-Due to the github and googlde drive storage limits, only 10 and 20 days KG-based dataset is made available that is accessible via the below google drive link.
+Due to the github and google drive storage limits, only 10 and 20 days KG-based dataset is made available that is accessible via the below google drive link.
 https://drive.google.com/drive/folders/15G4tgVheu-gOHg8Ia4VKwF2UgXeZFWzn?usp=sharing
 
 
