@@ -1,0 +1,14 @@
+PREFIX smo: <http://www.semanticweb.org/manufacturingproductionline#>
+PREFIX d: <http://www.semanticweb.org/manufacturingproductionline/data/>
+PREFIX sosa: <http://www.w3.org/ns/sosa#>
+PREFIX tm:    <http://www.w3.org/2006/time#> 
+SELECT DISTINCT ?machine ?Start_time ?result
+WHERE {
+?machine smo:hasTool ?tool.
+?machine smo:performsProcess ?process.
+?process tm:hasTime ?time.
+?tool sosa:madeObservation ?observation.
+?observation sosa:hasSimpleResult ?result.
+?time tm:hasStartTime ?Start_time.
+FILTER (?tool = d:M6_Folding_Mold_machine_Pressure_Sensor).
+}	
