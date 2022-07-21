@@ -1,6 +1,5 @@
 PREFIX smo: <http://www.semanticweb.org/manufacturingproductionline#>
 PREFIX d: <http://www.semanticweb.org/manufacturingproductionline/data/>
-PREFIX sosa: <http://www.w3.org/ns/sosa#>
 PREFIX tm:    <http://www.w3.org/2006/time#> 
 SELECT DISTINCT ?machine  (count(distinct ?process) as ?process_count) 
 (count(distinct ?tool) as ?tool_count) where {
