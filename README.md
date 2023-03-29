@@ -1,15 +1,12 @@
-# Manufacturing Production Line DataSet Generation Football
-In order to enable academic researchers to check and validate their tools and techniques, a manufacturing dataset generator is developed to generate a realistic dataset of the production line. 
+# A Benchmark Dataset with Knowledge Graph Generation for Industry 4.0 Production Lines
+We build a benchmark dataset for knowledge graph generation in Industry 4.0 production lines and to show the benefits of using ontologies and semantic annotations of data to showcase how I4.0 industry can benefit from KGs and semantic datasets. This work is a  result of collaborations with the production line managers, supervisors, and engineers of a football industry to acquire realistic production line data. Knowledge Graphs (KGs) or a Knowledge Graph (KG) emerged as a significant technology to store the semantics of the domain entities. The data is mapped and populated with RGOM classes and relations using an automated solution based on JenaAPI, producing an I4.0 KG.
 
 # Prerequisite
 Python
 
 # How to Run DataGenerator to generate data
-
 1. Download the code and Save to a location.
-
 2. Open CLI 
-
 3. Use the following command to navigate to the lcoation where you store source code.
 > cd C:\Users\muhyah\dgPython
 
