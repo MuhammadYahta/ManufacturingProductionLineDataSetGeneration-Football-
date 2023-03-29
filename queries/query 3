@@ -1,0 +1,16 @@
+PREFIX smo: <http://www.semanticweb.org/manufacturingproductionline#>
+PREFIX d: <http://www.semanticweb.org/manufacturingproductionline/data/>
+PREFIX tm:    <http://www.w3.org/2006/time#> 
+Select DISTINCT ?Motor_Name ?Status ?Start_time
+WHERE 
+{ 
+d:Machine_1 smo:hasTool ?motor.
+?motor smo:hasName ?Motor_Name.
+?motor smo:hasMotorState ?state.
+ ?process tm:hasTime ?time.
+ ?state smo:hasState ?Status. 
+ ?time tm:hasStartTime ?Start_time.
+FILTER (?Start_time >= "2021-06-01T 10:11:00Z"^^xsd:dateTime
+ &&
+?Start_time <= "2021-06-01T 10:12:55Z"^^xsd:dateTime ).
+}
