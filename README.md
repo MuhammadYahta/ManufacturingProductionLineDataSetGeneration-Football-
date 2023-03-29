@@ -1,4 +1,4 @@
-# ManufacturingProductionLineDataSetGeneration-Football
+# Manufacturing Production Line DataSet Generation Football
 In order to enable academic researchers to check and validate their tools and techniques, a manufacturing dataset generator is developed to generate a realistic dataset of the production line. 
 
 # Prerequisite
