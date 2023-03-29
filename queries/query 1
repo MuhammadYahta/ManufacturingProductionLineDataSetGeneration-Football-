@@ -1,1 +1,15 @@
+PREFIX smo: <http://www.semanticweb.org/manufacturingproductionline#>
+PREFIX d: <http://www.semanticweb.org/manufacturingproductionline/data/>
+PREFIX tm:    <http://www.w3.org/2006/time#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX sosa: <http://www.w3.org/ns/sosa#> 
 
+SELECT *
+WHERE 
+{ 
+{?Machine a smo:ProcessingMachine.}
+  UNION
+ {?Machine a smo:AssemblingMachine.}
+  ?Machine smo:hasName ?Name.
+FILTER(?Name != "")
+}
