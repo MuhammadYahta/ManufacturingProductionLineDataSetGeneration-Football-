@@ -23,7 +23,7 @@ The datafiles listed and queries listed in the paper can be accessed from here (
 # Usage
 To replicate the results, you can download any of the owl files and upload them to a virtuoso server. If you don't have a virtuoso server on your system, you would need to install one first. Once the dataset is uploaded to the virtuoso server, you can copy and paste the queries into the query section to obtain the desired results. Alternatively, you can import the data file in python or java and convert the queries to the corresponding programming language syntax and execute it to replicate the results.
 
-# use case
+# Use case
 Recently, this dataset is used to analyze the performance of the five state-of-the-art KG embedding models, namely ComplEx, DistMult,TransE, ConvKB, and ConvE. The models results are evaluated using two key metrics: Mean Reciprocal Rank (MRR), and Hits@N (Hits@10, Hits@3, and Hits@1). It is observed that the TransE model outperforms other models, followed by ComplEx and DistMult, with ConvE demonstrating the lowest performance. The dataset can be used alternatively in other potential scenarios.
 
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/t-test results.jpg?sanitize=true">
