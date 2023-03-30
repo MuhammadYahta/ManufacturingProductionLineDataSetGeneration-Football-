@@ -16,8 +16,9 @@ Python
 > python run.py
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/2. run main program.JPG?sanitize=true">
 
+
 # Data Accessibility
-The datafile can be accessed from here (https://doi.org/10.5281/zenodo.7779522)
+The datafiles listed and queries listed in the paper can be accessed from here (https://doi.org/10.5281/zenodo.7779522).
 
 # Usage
 To replicate the results, you can download any of the owl files and upload them to a virtuoso server. If you don't have a virtuoso server on your system, you would need to install one first. Once the dataset is uploaded to the virtuoso server, you can copy and paste the queries into the query section to obtain the desired results. Alternatively, you can import the data file in python or java and convert the queries to the corresponding programming language syntax and execute it to replicate the results.
