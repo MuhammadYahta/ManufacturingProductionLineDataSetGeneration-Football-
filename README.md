@@ -2,11 +2,11 @@
 We build a benchmark dataset for knowledge graph generation in Industry 4.0 production lines and to show the benefits of using ontologies and semantic annotations of data to showcase how I4.0 industry can benefit from KGs and semantic datasets. This work is a  result of collaborations with the production line managers, supervisors, and engineers of a football industry to acquire realistic production line data. Knowledge Graphs (KGs) or a Knowledge Graph (KG) emerged as a significant technology to store the semantics of the domain entities. The data is mapped and populated with RGOM classes and relations using an automated solution based on JenaAPI, producing an I4.0 KG.
 
 # Dataset properties
-name:Football manufacturing production line dataset.
-URL: https://doi.org/10.5281/zenodo.7779522
-version date: 30-03-2023
-version number= 1.0
-licensing: MIT Licence
+1. name:Football manufacturing production line dataset.
+2. URL: https://doi.org/10.5281/zenodo.7779522
+3. version date: 30-03-2023
+4. version number= 1.0
+5. licensing: MIT Licence
 
 # Prerequisite
 Python
