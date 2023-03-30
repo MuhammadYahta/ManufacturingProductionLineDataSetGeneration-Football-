@@ -17,7 +17,7 @@ Python
 <img src="https://github.com/MuhammadYahta/ManufacturingProductionLineDataSetGeneration-Football-/blob/main/2. run main program.JPG?sanitize=true">
 
 # Data Accessibility
-The datafile can be accessed from here (https://zenodo.org/deposit/7779522)
+The datafile can be accessed from here (https://doi.org/10.5281/zenodo.7779522)
 
 # Usage
 Recently, we use this dataset  to analyze the performance of the five state-of-the-art KG embedding models, namely ComplEx, DistMult,TransE, ConvKB, and ConvE. We evaluate the models using two key metrics: Mean Reciprocal Rank (MRR), and Hits@N (Hits@10, Hits@3, and Hits@1). We observed that the TransE model outperforms other models, followed by ComplEx and DistMult, with ConvE demonstrating the lowest performance. The dataset can be used alternatively in other potential scenarios.
