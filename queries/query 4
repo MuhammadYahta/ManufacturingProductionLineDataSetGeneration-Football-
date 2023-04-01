@@ -12,3 +12,4 @@ WHERE {
 ?time tm:hasStartTime ?Start_time.
 FILTER (?tool != d:M6_Folding_Mold_machine_Pressure_Sensor).
 }	
+limit 10
